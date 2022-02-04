@@ -1,6 +1,10 @@
 ## Hangman Game
 
-Select a letter to figure out a hidden word in a set amount of chances
+> Select a letter to figure out a hidden word in a set amount of chances
+
+## Project Preview
+
+[View Project Demo](https://mian-ali.github.io/hangman.js)
 
 ## Project Specifications
 
